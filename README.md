@@ -15,4 +15,8 @@ This repository is about my OpenCV lessons at Van Yuzuncu Yil University.
 * Lesson 11:  Edges
 * Lesson 12:  Contours
 * Lesson 13:  Histograms
-* Lesson 14:  ....
+* Lesson 14:  Hough Transform
+* Lesson 15:  Watershed Algorithm
+* Lesson 16:  Feature Extraction (Harris)
+* Lesson 17:  Feature Extraction (SIFT)
+* Lesson 18:  Graph Cut
